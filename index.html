@@ -1,19 +1,74 @@
+<!DOCTYPE html>
 <html>
-  <title>
-    Kionté Brown
-  </title>
-  <body>
-    <div>
-    menu will go here
-    </div>
-    <div>
-    picture will go here & bio
-    </div>
-    <div>
-    more stuff
-    </div>
-    <div>
-    use this or footer for bottom of site
-    </div>
-  </body>
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #abc;
+}
+
+li {
+    float: right;
+
+
+}
+
+li:last-child {
+    border-right: none;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #bcd;
+}
+
+.active {
+    background-color: #cba;
+}
+
+#main {
+	background-color: #aaaaaa;
+    height: 400px;
+}
+#hello {
+	background-color: #cccccc;
+    height: 400px;
+}
+#skills {
+	background-color: #eeeeee;
+    height: 400px;
+}
+#availible {
+	background-color: #111111;
+    height: 400px;
+}
+</style>
+</head>
+<body>
+<div id = "header">
+	<ul>
+  		<li style ="float:left"><a class="active" href="#home">Home</a></li>
+  		<li><a href="#news">Projects</a></li>
+  		<li><a href="#about">About</a></li>
+	</ul>
+</div>
+<div id = "main">
+</div>
+<div id = "hello">
+</div>
+<div id = "skills">
+</div>
+<div id = "availible">
+</div>
+</body>
 </html>
