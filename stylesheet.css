@@ -1,0 +1,107 @@
+	ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #abc;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #bcd;
+}
+
+.active {
+    background-color: #cba;
+}
+
+#main {
+	background-color: #abc;
+    height: 95%;
+    width: 100%
+}
+#hello {
+	background-color: #cba;
+    height: 110%;
+    width: 100%
+
+}
+#skills {
+	background-color: #abc;
+    height: 110%;
+    width: 100%
+
+}
+#availible {
+	background-color: #cba;
+    height: 110%;
+    width: 100%
+
+}
+footer {
+	background-color: #abc;
+    height: 15%;
+    width: 100%
+
+}
+#mainName{
+    margin: 0;
+    padding-top: 50px;
+    text-align: center;
+    color: white;
+}
+#mainJob{
+    margin: 0;
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+}
+
+#subHeading{
+    margin: 0;
+    padding-top: 50px;
+    text-align: center;
+    color: white;
+}
+#subSubHeading{
+    margin: 0;
+    padding-top: 35px;
+    text-align: center;
+    color: white;
+ 	
+}
+#description{
+    margin: 0;
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+ 	width: 200px;
+    position: relative;
+    
+}
+#wicd1{
+position: absolute;
+width: 200px;
+right: 10%;
+}
+#wicd2{
+position: absolute;
+width: 200px;
+right: 60%;
+
+}
+	#wicdT{
+		position: relative;
+		width: 500px;
+	}
