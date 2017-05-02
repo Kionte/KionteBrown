@@ -212,3 +212,9 @@ margin: auto
 width: 33%;
 margin: auto
 }
+
+#projectImg{
+margin: 0 auto;
+display: block;
+width: 40%;
+}
