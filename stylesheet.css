@@ -31,6 +31,7 @@ li a:hover:not(.active) {
 	 height: 110%;
    	 width: 100%
 }
+
 #hello {
     position: relative;
 	background-color: #cba;
@@ -152,4 +153,62 @@ margin: 0 auto;
 padding: 0;
 text-align: center;
 color: white;
+}
+
+
+
+
+#pMain
+{
+	background-color: #abc;
+	 height: 30%;
+   	 width: 100%
+}
+#update
+{
+	background-color: #cba;
+	 height:70%;
+   	 width: 100%
+}
+#updateD
+{
+width: 33%;
+margin: auto
+}
+#project1
+{
+	background-color: #abc;
+    height: 110%;
+    width: 100%
+}
+#p1d{
+width: 33%;
+margin: auto
+}
+#project2 {
+	background-color: #cba;
+    height: 110%;
+    width: 100%
+}
+#p2d{
+width: 33%;
+margin: auto
+}
+#project3 {
+	background-color: #123;
+    height: 110%;
+    width: 100%
+}
+#p3d{
+width: 33%;
+margin: auto
+}
+#project4 {
+	background-color: #321;
+    height: 110%;
+    width: 100%
+}
+#p4d{
+width: 33%;
+margin: auto
 }
