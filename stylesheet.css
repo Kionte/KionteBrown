@@ -29,7 +29,7 @@ li a:hover:not(.active) {
 #main {
 	background-image: url("cover.jpg");
 	background-repeat:no-repeat;
-	background-size: contain;
+	background-size: 100% 100%;
 	background-color: #abc;
 	 height: 110%;
    	 width: 100%
