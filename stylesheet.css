@@ -30,21 +30,23 @@ li a:hover:not(.active) {
 	background-image: url("cover.jpg");
 	background-repeat:no-repeat;
 	background-size: cover;
-	background-color: #abc ;
+	background-color: #abc;
 	 height: 110%;
    	 width: 100%
 }
 
 #hello {
     position: relative;
-	background-color: #968164 ;
+	background-color: #A79680;
+	opacity: 0.3;
     height: 110%;
     width: 100%
    
 
 }
 #skills {
-	background-color: #abc;
+	background-color: #52B8BC;
+	opacity: 0.3;
     height: 110%;
     width: 100%
 
