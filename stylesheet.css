@@ -38,15 +38,15 @@ li a:hover:not(.active) {
 #hello {
     position: relative;
 	background-color: #A79680;
-	opacity: 0.3;
+	opacity: 0.5;
     height: 110%;
     width: 100%
    
 
 }
 #skills {
-	background-color: #52B8BC;
-	opacity: 0.3;
+	background-color: #386B7D;
+	opacity: 0.5;
     height: 110%;
     width: 100%
 
