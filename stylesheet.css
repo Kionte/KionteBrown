@@ -29,15 +29,15 @@ li a:hover:not(.active) {
 #main {
 	background-image: url("cover.jpg");
 	background-repeat:no-repeat;
-	background-size: 100% 100%;
-	background-color: #abc;
+	background-size: cover;
+	background-color: #abc ;
 	 height: 110%;
    	 width: 100%
 }
 
 #hello {
     position: relative;
-	background-color: #cba;
+	background-color: #968164 ;
     height: 110%;
     width: 100%
    
