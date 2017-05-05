@@ -37,7 +37,8 @@ li a:hover:not(.active) {
 
 #hello {
     position: relative;
-	background-color: #A79680;
+	background-color: #;
+	background: linear-gradient(to right, #A79680 , #54361B);
 	opacity: 0.5;
     height: 110%;
     width: 100%
@@ -46,6 +47,7 @@ li a:hover:not(.active) {
 }
 #skills {
 	background-color: #386B7D;
+	background: linear-gradient(to right, #386B7D , #52B8BC);
 	opacity: 0.5;
     height: 110%;
     width: 100%
