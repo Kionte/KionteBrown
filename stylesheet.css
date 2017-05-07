@@ -4,7 +4,7 @@
     padding: 0;
     overflow: hidden;
     background-color: #386B7D;
-    opacity: 0.1;
+    opacity: 0.0;
 }
 
 #head {
@@ -25,6 +25,7 @@ li a:hover:not(.active) {
 
 .active {
     background-color: #52B8BC;
+	opacity: 0.0;
     opacity: 0.3;
 }
 
