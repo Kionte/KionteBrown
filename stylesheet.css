@@ -4,7 +4,7 @@
     padding: 0;
     overflow: hidden;
     background-color: #386B7D;
-    opacity: 0.3;
+    opacity: 0.1;
 }
 
 #head {
@@ -24,7 +24,7 @@ li a:hover:not(.active) {
 }
 
 .active {
-    background-color: #386B7D;
+    background-color: #52B8BC;
     opacity: 0.3;
 }
 
@@ -56,7 +56,7 @@ li a:hover:not(.active) {
 
 }
 #availible {
-	background-color: #cba;
+	background-color: #A79680;
     height: 110%;
     width: 100%
 
@@ -119,7 +119,7 @@ margin: auto
 }
 
 footer {
-	background-color: #abc;
+	background-color: #A79680;
     width: 100%;
     height: 15%;
 
