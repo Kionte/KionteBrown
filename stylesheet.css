@@ -19,11 +19,11 @@ li a {
 }
 
 li a:hover:not(.active) {
-    background-color: #bcd;
+    background-color: #52B8BC;
 }
 
 .active {
-    background-color: #cba;
+    background-color: #386B7D;
 }
 
 #main {
@@ -37,7 +37,7 @@ li a:hover:not(.active) {
 
 #hello {
     position: relative;
-	background-color: #;
+	background-color: #A79680;
 	background: linear-gradient(to right, #A79680 , #54361B);
 	opacity: 0.5;
     height: 110%;
