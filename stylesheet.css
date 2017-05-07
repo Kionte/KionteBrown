@@ -3,7 +3,8 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #abc;
+    background-color: #386B7D;
+    opacity: 0.3;
 }
 
 #head {
