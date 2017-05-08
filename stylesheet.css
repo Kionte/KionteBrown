@@ -37,10 +37,9 @@ li a:hover {
 }
 
 #hello {
-    position: relative;
 	background-color: #A79680;
 	background: linear-gradient(to right,#54361B ,#A79680  );
-	opacity: 0.3;
+	opacity: 0.5;
     height: 110%;
     width: 100%
    
