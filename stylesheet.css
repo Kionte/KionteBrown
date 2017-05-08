@@ -119,8 +119,8 @@ margin: auto
 }
 
 footer {
-	background-color: #A79680;
-    width: 100%;
+background: linear-gradient(to right, #386B7D , #52B8BC);
+	width: 100%;
     height: 15%;
 
 
