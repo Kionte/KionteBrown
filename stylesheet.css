@@ -22,6 +22,11 @@ li a {
     opacity: 0.3;
 }
 
+li a:hover {
+    background-color: #52B8BC;
+}
+
+
 #main {
 	background-image: url("cover.jpg");
 	background-repeat:no-repeat;
