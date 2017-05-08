@@ -11,14 +11,10 @@
 
 li a {
     display: block;
-    color: white;
+    color: 671700;
     text-align: center;
     padding: 15px 16px;
     text-decoration: none;
-}
-
-li a:hover:not(.active) {
-    background-color: #52B8BC;
 }
 
 .active {
