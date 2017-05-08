@@ -166,15 +166,19 @@ color: white;
 
 
 
-
 #pMain
 {
+background: linear-gradient(to right,#6699FF, #66CCFF
+);
+
 	background-color: #abc;
 	 height: 30%;
    	 width: 100%
 }
 #update
 {
+background: linear-gradient(to right,#3300FF ,#6633FF);
+
 	background-color: #cba;
 	 height:70%;
    	 width: 100%
@@ -186,7 +190,8 @@ margin: auto
 }
 #project1
 {
-	background-color: #abc;
+background: linear-gradient(to right,#3399FF ,#66CCFF);
+	background-color: #3399FF;
     height: 110%;
     width: 100%
 }
@@ -195,7 +200,9 @@ width: 33%;
 margin: auto
 }
 #project2 {
-	background-color: #cba;
+background: linear-gradient(to right,#009966, #00CC66);
+
+	background-color: #00CC66;
     height: 110%;
     width: 100%
 }
@@ -204,6 +211,7 @@ width: 33%;
 margin: auto
 }
 #project3 {
+background: linear-gradient(to right,#0033CC, #0066CC);
 	background-color: #123;
     height: 110%;
     width: 100%
@@ -213,6 +221,8 @@ width: 33%;
 margin: auto
 }
 #project4 {
+background: linear-gradient(to right,#003300, #006633);
+
 	background-color: #321;
     height: 110%;
     width: 100%
