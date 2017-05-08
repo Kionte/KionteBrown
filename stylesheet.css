@@ -122,6 +122,7 @@ footer {
 background: linear-gradient(to right, #386B7D , #52B8BC);
 	width: 100%;
     height: 15%;
+	opacity: 0.5;
 
 
 }
